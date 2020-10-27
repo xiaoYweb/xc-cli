@@ -34,7 +34,7 @@ program
         // start to download
         
         const spinner = ora('downloading template...')
-        const downloadUrl = `https://github.com/xiaoYweb/${answers.cliType}.git`;
+        const downloadUrl = `https://github.com/xiaoYweb/${answers.cliType}.git#master`;
 
         spinner.start()
 

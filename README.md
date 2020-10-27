@@ -1,4 +1,4 @@
-# create-repo-cli
+# xc-cli
 a cli to create project...
 
 ## install global
