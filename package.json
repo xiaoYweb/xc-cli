@@ -12,7 +12,7 @@
     "url": "https://github.com/xiaoYweb/xc-cli.git"
   },
   "bin": {
-    "create-repo": "index.js"
+    "xc-cli": "index.js"
   },
   "author": "xiaoy",
   "license": "ISC",
