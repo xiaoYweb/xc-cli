@@ -19,7 +19,7 @@ program
           name: 'cliType',
           message: 'which cli type would you want to create?',
           type: 'list',
-          choices: ['umi-pc'],
+          choices: ['xc-pro'],
         },
         {
           name: 'description',
